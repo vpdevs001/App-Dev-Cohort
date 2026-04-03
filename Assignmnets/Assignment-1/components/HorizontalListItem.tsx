@@ -27,10 +27,10 @@ const HorizontalListItem = ({
         styles.container,
         {
           shadowColor: iconColor,
-          shadowOffset: { height: 6, width: 0 },
+          shadowOffset: { height: 8, width: 4 },
           shadowOpacity: 0.4,
           shadowRadius: 12,
-          elevation: 6,
+          elevation: 12,
         },
       ]}
     >
